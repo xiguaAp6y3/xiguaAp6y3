@@ -1,4 +1,4 @@
-##Hello everyone!\n
+##Hello everyone!
 //A student.
 //A truly student.
 //A normal student.
