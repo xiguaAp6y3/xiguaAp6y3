@@ -1,2 +1,1 @@
-##Hello everyone!
-import student
+return null
